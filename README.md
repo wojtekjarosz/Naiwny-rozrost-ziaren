@@ -25,4 +25,5 @@ Losowanie zarodków ziaren:
 -losowe
 -równomierne
 -z promieniem
+-przez kliknięcie
 
